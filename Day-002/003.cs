@@ -6,7 +6,7 @@ namespace Project03
     {
         static void Main(string[] args)
         {
-            Console.Title = "My C# Adventure"; // can change console title
+            Console.Title = "My C# Adventure"; // can change console title 
             Console.Write("Enter the first number : ");
             //We convert from string to integer
             int number1 = Convert.ToInt32(Console.ReadLine());
