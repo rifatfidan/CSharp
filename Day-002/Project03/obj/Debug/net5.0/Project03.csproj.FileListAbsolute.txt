@@ -1,0 +1,16 @@
+C:\Users\PYTHON\source\repos\Project03\Project03\bin\Debug\net5.0\Project03.exe
+C:\Users\PYTHON\source\repos\Project03\Project03\bin\Debug\net5.0\Project03.deps.json
+C:\Users\PYTHON\source\repos\Project03\Project03\bin\Debug\net5.0\Project03.runtimeconfig.json
+C:\Users\PYTHON\source\repos\Project03\Project03\bin\Debug\net5.0\Project03.runtimeconfig.dev.json
+C:\Users\PYTHON\source\repos\Project03\Project03\bin\Debug\net5.0\Project03.dll
+C:\Users\PYTHON\source\repos\Project03\Project03\bin\Debug\net5.0\ref\Project03.dll
+C:\Users\PYTHON\source\repos\Project03\Project03\bin\Debug\net5.0\Project03.pdb
+C:\Users\PYTHON\source\repos\Project03\Project03\obj\Debug\net5.0\Project03.csproj.AssemblyReference.cache
+C:\Users\PYTHON\source\repos\Project03\Project03\obj\Debug\net5.0\Project03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PYTHON\source\repos\Project03\Project03\obj\Debug\net5.0\Project03.AssemblyInfoInputs.cache
+C:\Users\PYTHON\source\repos\Project03\Project03\obj\Debug\net5.0\Project03.AssemblyInfo.cs
+C:\Users\PYTHON\source\repos\Project03\Project03\obj\Debug\net5.0\Project03.csproj.CoreCompileInputs.cache
+C:\Users\PYTHON\source\repos\Project03\Project03\obj\Debug\net5.0\Project03.dll
+C:\Users\PYTHON\source\repos\Project03\Project03\obj\Debug\net5.0\ref\Project03.dll
+C:\Users\PYTHON\source\repos\Project03\Project03\obj\Debug\net5.0\Project03.pdb
+C:\Users\PYTHON\source\repos\Project03\Project03\obj\Debug\net5.0\Project03.genruntimeconfig.cache
