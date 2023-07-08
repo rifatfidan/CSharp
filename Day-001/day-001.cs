@@ -10,7 +10,7 @@ namespace Project01
             /* Multi-line comments start with
             and ends with */
 
-            //You can add as many WriteLine() as you want. It will add a new line for each method
+            //You can add as many WriteLine() as you want. It will add a new line for each method 
             Console.WriteLine("Hello World!");
             Console.ReadLine();
         }
