@@ -20,12 +20,12 @@ namespace Project05
             birthDate=Console.ReadLine();
 
             Console.WriteLine();
-            Console.Write("Your Information........................:");
-            Console.Write("Your name and surname...................:"+names);
-            Console.Write("Your school.............................:"+school);
-            Console.Write("Your work...............................:"+work);
-            Console.Write("Your age................................:"+age);
-            Console.Write("Your birth..............................:"+birthDate);
+            Console.WriteLine("Your Information........................:");
+            Console.WriteLine("Your name and surname...................:"+names);
+            Console.WriteLine("Your school.............................:"+school);
+            Console.WriteLine("Your work...............................:"+work);
+            Console.WriteLine("Your age................................:"+age);
+            Console.WriteLine("Your birth..............................:"+birthDate);
 
             Console.ReadLine();
             
