@@ -20,7 +20,7 @@ namespace WindowsFormsApp1
         private void btnUp_Click(object sender, EventArgs e)
         {
             btnCar.Location = new Point(btnCar.Location.X, btnCar.Location.Y - 5);
-            btnCar.BackgroundImage = Image.FromFile(@"C:\Users\PYTHON\source\repos\WindowsFormsApp1\WindowsFormsApp1\Resources\car.png");
+            btnCar.BackgroundImage = Image.FromFile(@"C:\Users\PYTHON\source\repos\WindowsFormsApp1\WindowsFormsApp1\Resources\car.png"); 
         }
 
         private void btnLeft_Click(object sender, EventArgs e)
