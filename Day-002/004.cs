@@ -7,7 +7,7 @@ namespace Project04
         static void Main(string[] args)
         {
             Console.Title = "UsingFormat";
-            string author = "Richard Bounce";
+            string author = "Richard Bounce"; 
             string book = "Learning C#";
             int year = 2023;
             decimal price = 158.95m;
