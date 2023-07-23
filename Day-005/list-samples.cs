@@ -13,15 +13,17 @@ namespace ListSamples
     public partial class Form1 : Form
     {
         List<string> courses = new List<string>();
-
         public Form1()
         {
             InitializeComponent();
         }
-
         private void Form1_Load(object sender, EventArgs e)
         {
             this.Text = "List Samples";
+            label1.Text = "";
+            label2.Text = "";
+            label3.Text = "";
+            label4.Text = "";
             label5.Text = "";
             label7.Text = "";
 
@@ -63,9 +65,6 @@ namespace ListSamples
                 numbers.Add(i);
             }
 
-            label1.Text = "";
-            label2.Text = "";
-            label3.Text = "";
             label1.Text = days.Count.ToString();// give count of list  so 7
             label2.Text = numbers.Count.ToString();//from for loop  10
             foreach (var item in numbers)
@@ -76,7 +75,6 @@ namespace ListSamples
 
         private void button3_Click(object sender, EventArgs e)
         {
-            label4.Text = "";
             List<int> numbers = new List<int>();
             for (int i = 1; i <= 10; i++)
             {
@@ -104,7 +102,7 @@ namespace ListSamples
             {
                 label3.Text += item2 + "\n";
             }
-        }
+        } 
 
         private void button4_Click(object sender, EventArgs e)
         {
