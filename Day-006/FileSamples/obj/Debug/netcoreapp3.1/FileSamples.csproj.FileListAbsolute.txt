@@ -1,0 +1,15 @@
+C:\Users\PYTHON\source\repos\FileSamples\FileSamples\bin\Debug\netcoreapp3.1\FileSamples.exe
+C:\Users\PYTHON\source\repos\FileSamples\FileSamples\bin\Debug\netcoreapp3.1\FileSamples.deps.json
+C:\Users\PYTHON\source\repos\FileSamples\FileSamples\bin\Debug\netcoreapp3.1\FileSamples.runtimeconfig.json
+C:\Users\PYTHON\source\repos\FileSamples\FileSamples\bin\Debug\netcoreapp3.1\FileSamples.runtimeconfig.dev.json
+C:\Users\PYTHON\source\repos\FileSamples\FileSamples\bin\Debug\netcoreapp3.1\FileSamples.dll
+C:\Users\PYTHON\source\repos\FileSamples\FileSamples\bin\Debug\netcoreapp3.1\FileSamples.pdb
+C:\Users\PYTHON\source\repos\FileSamples\FileSamples\obj\Debug\netcoreapp3.1\FileSamples.csproj.AssemblyReference.cache
+C:\Users\PYTHON\source\repos\FileSamples\FileSamples\obj\Debug\netcoreapp3.1\FileSamples.Form1.resources
+C:\Users\PYTHON\source\repos\FileSamples\FileSamples\obj\Debug\netcoreapp3.1\FileSamples.csproj.GenerateResource.cache
+C:\Users\PYTHON\source\repos\FileSamples\FileSamples\obj\Debug\netcoreapp3.1\FileSamples.AssemblyInfoInputs.cache
+C:\Users\PYTHON\source\repos\FileSamples\FileSamples\obj\Debug\netcoreapp3.1\FileSamples.AssemblyInfo.cs
+C:\Users\PYTHON\source\repos\FileSamples\FileSamples\obj\Debug\netcoreapp3.1\FileSamples.csproj.CoreCompileInputs.cache
+C:\Users\PYTHON\source\repos\FileSamples\FileSamples\obj\Debug\netcoreapp3.1\FileSamples.dll
+C:\Users\PYTHON\source\repos\FileSamples\FileSamples\obj\Debug\netcoreapp3.1\FileSamples.pdb
+C:\Users\PYTHON\source\repos\FileSamples\FileSamples\obj\Debug\netcoreapp3.1\FileSamples.genruntimeconfig.cache
