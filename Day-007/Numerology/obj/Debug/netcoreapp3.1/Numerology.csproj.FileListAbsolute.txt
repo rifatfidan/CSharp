@@ -1,0 +1,15 @@
+C:\Users\PYTHON\source\repos\Numerology\Numerology\bin\Debug\netcoreapp3.1\Numerology.exe
+C:\Users\PYTHON\source\repos\Numerology\Numerology\bin\Debug\netcoreapp3.1\Numerology.deps.json
+C:\Users\PYTHON\source\repos\Numerology\Numerology\bin\Debug\netcoreapp3.1\Numerology.runtimeconfig.json
+C:\Users\PYTHON\source\repos\Numerology\Numerology\bin\Debug\netcoreapp3.1\Numerology.runtimeconfig.dev.json
+C:\Users\PYTHON\source\repos\Numerology\Numerology\bin\Debug\netcoreapp3.1\Numerology.dll
+C:\Users\PYTHON\source\repos\Numerology\Numerology\bin\Debug\netcoreapp3.1\Numerology.pdb
+C:\Users\PYTHON\source\repos\Numerology\Numerology\obj\Debug\netcoreapp3.1\Numerology.csproj.AssemblyReference.cache
+C:\Users\PYTHON\source\repos\Numerology\Numerology\obj\Debug\netcoreapp3.1\Numerology.Form1.resources
+C:\Users\PYTHON\source\repos\Numerology\Numerology\obj\Debug\netcoreapp3.1\Numerology.csproj.GenerateResource.cache
+C:\Users\PYTHON\source\repos\Numerology\Numerology\obj\Debug\netcoreapp3.1\Numerology.AssemblyInfoInputs.cache
+C:\Users\PYTHON\source\repos\Numerology\Numerology\obj\Debug\netcoreapp3.1\Numerology.AssemblyInfo.cs
+C:\Users\PYTHON\source\repos\Numerology\Numerology\obj\Debug\netcoreapp3.1\Numerology.csproj.CoreCompileInputs.cache
+C:\Users\PYTHON\source\repos\Numerology\Numerology\obj\Debug\netcoreapp3.1\Numerology.dll
+C:\Users\PYTHON\source\repos\Numerology\Numerology\obj\Debug\netcoreapp3.1\Numerology.pdb
+C:\Users\PYTHON\source\repos\Numerology\Numerology\obj\Debug\netcoreapp3.1\Numerology.genruntimeconfig.cache
