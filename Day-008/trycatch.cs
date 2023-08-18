@@ -28,7 +28,7 @@ namespace TryCatch
             catch (Exception)
             {
 
-                label1.Text = "Hata yapiyorsun";
+                label1.Text = "You made a mistake";
             }
         }
     }
