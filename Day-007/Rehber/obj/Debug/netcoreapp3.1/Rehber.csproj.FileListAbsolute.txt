@@ -1,0 +1,15 @@
+C:\Users\PYTHON\source\repos\Rehber\Rehber\bin\Debug\netcoreapp3.1\Rehber.exe
+C:\Users\PYTHON\source\repos\Rehber\Rehber\bin\Debug\netcoreapp3.1\Rehber.deps.json
+C:\Users\PYTHON\source\repos\Rehber\Rehber\bin\Debug\netcoreapp3.1\Rehber.runtimeconfig.json
+C:\Users\PYTHON\source\repos\Rehber\Rehber\bin\Debug\netcoreapp3.1\Rehber.runtimeconfig.dev.json
+C:\Users\PYTHON\source\repos\Rehber\Rehber\bin\Debug\netcoreapp3.1\Rehber.dll
+C:\Users\PYTHON\source\repos\Rehber\Rehber\bin\Debug\netcoreapp3.1\Rehber.pdb
+C:\Users\PYTHON\source\repos\Rehber\Rehber\obj\Debug\netcoreapp3.1\Rehber.csproj.AssemblyReference.cache
+C:\Users\PYTHON\source\repos\Rehber\Rehber\obj\Debug\netcoreapp3.1\Rehber.Form1.resources
+C:\Users\PYTHON\source\repos\Rehber\Rehber\obj\Debug\netcoreapp3.1\Rehber.csproj.GenerateResource.cache
+C:\Users\PYTHON\source\repos\Rehber\Rehber\obj\Debug\netcoreapp3.1\Rehber.AssemblyInfoInputs.cache
+C:\Users\PYTHON\source\repos\Rehber\Rehber\obj\Debug\netcoreapp3.1\Rehber.AssemblyInfo.cs
+C:\Users\PYTHON\source\repos\Rehber\Rehber\obj\Debug\netcoreapp3.1\Rehber.csproj.CoreCompileInputs.cache
+C:\Users\PYTHON\source\repos\Rehber\Rehber\obj\Debug\netcoreapp3.1\Rehber.dll
+C:\Users\PYTHON\source\repos\Rehber\Rehber\obj\Debug\netcoreapp3.1\Rehber.pdb
+C:\Users\PYTHON\source\repos\Rehber\Rehber\obj\Debug\netcoreapp3.1\Rehber.genruntimeconfig.cache
